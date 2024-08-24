@@ -51,17 +51,15 @@
       </mj-column>
     </mj-section>
     <mj-section padding="0 16px 40px 16px" background-color="#ffffff">
-      <mj-column padding-top="10px" width="31.333333%" background-color="#F5f6fb" border-radius="12px">
+      <mj-column width="31.333333%" background-color="#ffffff">
         <mj-image width="100px" src="https://i.ibb.co/6yDxj9g/material-symbols-info-outline.png" alt=""/>
         <mj-text align="center" font-family="Poppins" font-size="14px" line-height="20px" font-weight="400">Country Information </mj-text>
       </mj-column>
-      <mj-column width="16px" padding-top="16px"></mj-column>
-      <mj-column padding-top="10px" width="31.333333%" background-color="#f5f6fb" border-radius="12px">
+      <mj-column width="31.333333%" background-color="#ffffff">
         <mj-image width="100px" src="https://i.ibb.co/6yDxj9g/material-symbols-info-outline.png" alt=""/>
         <mj-text align="center" font-family="Poppins" font-size="14px" line-height="20px" font-weight="400">Country Information </mj-text>
       </mj-column>
-      <mj-column width="16px" padding-top="16px"></mj-column>
-      <mj-column padding-top="10px" width="31.333333%" background-color="#f5f6fb" border-radius="12px">
+      <mj-column width="31.333333%" background-color="#ffffff">
         <mj-image width="100px" src="https://i.ibb.co/6yDxj9g/material-symbols-info-outline.png" alt=""/>
         <mj-text align="center" font-family="Poppins" font-size="14px" line-height="20px" font-weight="400">Country Information</mj-text>
       </mj-column>
